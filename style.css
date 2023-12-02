@@ -1,0 +1,35 @@
+body {
+    background-color:#8805A8;
+    font-family: sans-serif;
+}
+header{
+    text-align: center;
+    font-size:30px;
+    font-family:'Courier New', Courier, monospace;
+    color:white;
+    padding:5px;
+    background-color:#58026D;
+}
+h1{
+    padding-right:20px;
+}
+h1 img{
+    width:70px;
+}
+.navbuttons{
+    margin-left:20px;
+    width:260px;
+}
+.info{
+    width:880px;
+}
+main{
+    text-align: center;
+}
+footer{
+    padding:10px;
+    background-color:#58026D;
+}
+footer img{
+    margin-left:12px;
+}
